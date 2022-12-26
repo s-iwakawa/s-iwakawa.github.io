@@ -1,0 +1,7 @@
+baseURL = 'http://s-iwakawa.github.io'
+languageCode = 'ja'
+title = 'Hugo tutorial'
+contentDir = "post"
+disableKinds = ["RSS", "sitemap"]
+[taxonomies]
+tag = "tags"
