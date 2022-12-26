@@ -3,5 +3,6 @@ languageCode = 'ja'
 title = 'Hugo tutorial'
 contentDir = "post"
 disableKinds = ["RSS", "sitemap"]
+publishDir = "docs"
 [taxonomies]
 tag = "tags"
